@@ -15,7 +15,7 @@
 ######################################################################
 
 """
-Customer Steps
+Customer Steps:
 
 Steps file for Customer.feature
 
